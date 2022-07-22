@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">projeto allan</string>
+    <string name="calculadoraimc">Calculadora IMC</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">SEU RESULTADO</string>
+    <string name="recalcular">Recalcular</string>
 </resources>
